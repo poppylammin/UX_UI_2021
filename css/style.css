@@ -1,0 +1,100 @@
+* {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+
+#title {
+   padding: 5rem;
+   text-align: center;
+}
+
+.card {
+    align-items: center ;
+    
+}
+
+#problem {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.col-sm-2 {
+   margin-left: auto;
+   margin-right: auto;
+   width: 20%;
+}
+.iteration .card-body {
+    padding: 2rem;
+    min-height: 600px;
+}
+
+.nav-link {
+    color: #34282C;
+}
+
+.jumbotron-fluid {
+    text-align: left;
+    /* padding-left: 0px; */
+
+}
+ .gallery {
+
+  margin-left: auto;
+  margin-right: auto;
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+  
+img {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.header h1 {
+    padding-top: 4rem;
+    text-align: center;
+}
+    
+.research {
+    padding-top: 5rem;
+}
+
+.containergif {
+    padding-top: 2rem;
+}
+
+.responsive {
+    padding-top: 4rem;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+    max-width: 100%;
+    height: auto;
+}
+
+.container {
+    padding-left: 0px;
+}
+
+.row {
+    padding-left: 0px;
+}
